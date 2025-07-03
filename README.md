@@ -1,3 +1,5 @@
+# [Testing Needed] Dual Boot macOS 13.7 and Linux Mint 22.1 Installation Guide 
+
 Hello, I have successfully installed Linux Mint 22.1 alongside macOS Ventura 13.7.6 on a MacBookPro14,1 (2017 MacBook Pro):
 
 ![mint-fastfetch](https://raw.githubusercontent.com/osalbahr/macos-linux-mint-guide/refs/heads/main/mint-fastfetch.png)
@@ -25,3 +27,11 @@ If you have an Intel-based MacBook or Mac, I would like to request your help edi
 ![efi](https://raw.githubusercontent.com/osalbahr/macos-linux-mint-guide/refs/heads/main/efi.png)
 
 6. Click "Install now".
+
+---
+
+Also posted in:
+
+https://forums.linuxmint.com/viewtopic.php?p=2646631
+
+https://gist.github.com/osalbahr/c0430a9ad8536c01a86447fce8d2b431
